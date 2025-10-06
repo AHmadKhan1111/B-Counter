@@ -1,7 +1,7 @@
 import { useState } from "react";
 import Count from "./Count";
 import CountButtons from "./CountButtons";
-import Reset from "./reset";
+import Reset from "./Reset";
 import Title from "./Title";
 
 export default function Card() {
@@ -17,3 +17,4 @@ export default function Card() {
     </>
   );
 }
+
